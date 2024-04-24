@@ -1,1 +1,2 @@
 this is my master file.
+i am trying to resolve merging issue.
